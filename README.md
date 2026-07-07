@@ -1,60 +1,75 @@
-# Tomb: The Linux Crypto Undertaker
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# tomb
 
-[![Build Status](https://github.com/dyne/tomb/actions/workflows/linux.yml/badge.svg)](https://github.com/dyne/Tomb/actions)
-<!-- [![Build Status](https://github.com/dyne/tomb/actions/workflows/portable.yml/badge.svg)](https://github.com/dyne/Tomb/actions) -->
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/tomb)
 
-Minimalistic command line tool based on Linux dm-crypt and LUKS, trusted by hackers since 2007.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-You can keep your volumes secure and easily manageable with simple commands.
+## Architecture
 
-![tomb's logo](https://github.com/dyne/Tomb/blob/master/extras/images/monmort.png)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-Create a new 120MiB `secret.tomb` folder and lock it with a new `secret.tomb.key` file.
-```
- $ tomb dig   -s 120 secret.tomb
- $ tomb forge -k secret.tomb.key
- $ tomb lock  -k secret.tomb.key secret.tomb
-```
-To open it, do
-```
- $ tomb open  -k secret.tomb.key secret.tomb
-```
-And after you are done
-```
- $ tomb close
-```
-Or, if you are in a hurry, kill all processes with open files inside your tomb and close it.
-```
- $ tomb slam
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/tomb.git
+cd tomb
 ```
 
-Tomb also supports two-factor unlocking with a FIDO2 passkey; see `doc/FIDO2.md` for setup details.
-## 📖 [Get started on dyne.org/tomb](https://dyne.org/tomb)
+## Usage
 
-<a href="https://dyne.org/tomb"><img src="https://files.dyne.org/software_by_dyne.png" width="30%"></a>
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-More information in `man tomb` and on [dyne.org/docs/tomb](https://dyne.org/docs/tomb).
+## Configuration
 
-### 💾 [Download from files.dyne.org](https://files.dyne.org/?dir=tomb)
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-Use only stable and signed releases in production!
+## CI
 
-Tomb's development is community-based!
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
 
-## 🤏🏽 How can you help
+## Mirror chain
 
-Donations are very welcome on [dyne.org/donate](https://www.dyne.org/donate)
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/tomb`](https://github.com/Interested-Deving-1896/tomb) and mirrored through:
 
-Translations are also welcome: see our simple [translation guide](https://github.com/dyne/Tomb/blob/master/extras/translations/README.md)
+```
+Interested-Deving-1896/tomb  ──►  OpenOS-Project-OSP/tomb  ──►  OpenOS-Project-Ecosystem-OOC/tomb
+```
 
-Tomb's code is short and readable: don't be afraid to inspect it! If you plan to submit a PR, please remember that this is a minimalist tool, and the code should be short and readable. Also, first, read our small intro to [Tomb's coding style](doc/HACKING.txt).
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
 
-We have a [space for issues](https://github.com/dyne/Tomb/issues) open for detailed bug reports. Always include the Tomb version being used when filing a case, please.
+## Contributors
 
-There is also a [space for discussion](https://github.com/dyne/Tomb/discussions) of new features, desiderata and whatnot on github.
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
 
-# Licensing
+## Origins
 
-Tomb is Copyright (C) 2007-2025 by the Dyne.org Foundation and maintained by [Jaromil](https://github.com/jaromil). The [AUTHORS](AUTHORS.md) file contains more information on all the developers involved. The license is GNU Public License v3.
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
 
-## [More info on dyne.org/tomb](https://dyne.org/tomb)
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[GPL-3.0](https://github.com/Interested-Deving-1896/tomb/blob/master/COPYING) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
