@@ -55,7 +55,38 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@jaromil](https://github.com/jaromil) | 683 |
+| [@boyska](https://github.com/boyska) | 92 |
+| [@Narrat](https://github.com/Narrat) | 73 |
+| [@melon3r](https://github.com/melon3r) | 69 |
+| [@roddhjav](https://github.com/roddhjav) | 57 |
+| [@nerun](https://github.com/nerun) | 24 |
+| [@davinerd](https://github.com/davinerd) | 23 |
+| [@hellekin](https://github.com/hellekin) | 15 |
+| [@heat-wave](https://github.com/heat-wave) | 9 |
+| [@AitorATuin](https://github.com/AitorATuin) | 7 |
+| [@Ricky-Tigg](https://github.com/Ricky-Tigg) | 6 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
+| [@mcrapet](https://github.com/mcrapet) | 5 |
+| [@x3nu](https://github.com/x3nu) | 5 |
+| [@melroy89](https://github.com/melroy89) | 4 |
+| [@jturner314](https://github.com/jturner314) | 4 |
+| [@cyphra](https://github.com/cyphra) | 4 |
+| [@chri2](https://github.com/chri2) | 4 |
+| [@danielinux](https://github.com/danielinux) | 3 |
+| [@mgian](https://github.com/mgian) | 3 |
+| [@jcrd](https://github.com/jcrd) | 3 |
+| [@mesbahamin](https://github.com/mesbahamin) | 3 |
+| [@reiven](https://github.com/reiven) | 3 |
+| [@vladdoster](https://github.com/vladdoster) | 2 |
+| [@parazyd](https://github.com/parazyd) | 2 |
+| [@BombFoolGranny](https://github.com/BombFoolGranny) | 2 |
+| [@timvisee](https://github.com/timvisee) | 2 |
+| [@mancausoft](https://github.com/mancausoft) | 2 |
+| [@dcommisso](https://github.com/dcommisso) | 2 |
+| [@JoelMon](https://github.com/JoelMon) | 2 |
 <!-- AI:end:contributors -->
 
 ## Origins
