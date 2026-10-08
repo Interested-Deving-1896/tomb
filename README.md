@@ -67,8 +67,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@hellekin](https://github.com/hellekin) | 15 |
 | [@heat-wave](https://github.com/heat-wave) | 9 |
 | [@AitorATuin](https://github.com/AitorATuin) | 7 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 6 |
 | [@Ricky-Tigg](https://github.com/Ricky-Tigg) | 6 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 | [@mcrapet](https://github.com/mcrapet) | 5 |
 | [@x3nu](https://github.com/x3nu) | 5 |
 | [@melroy89](https://github.com/melroy89) | 4 |
